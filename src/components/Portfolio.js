@@ -33,10 +33,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item react pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-1.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/1.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-1.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/1.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -52,10 +52,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item react node pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-2.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/2.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-2.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/2.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -71,10 +71,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item node react pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-3.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/3.png" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-3.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/3.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -91,10 +91,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-4.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/4.png" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-4.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/4.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -111,10 +111,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item node js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-5.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/5.png" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-5.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/5.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -128,33 +128,14 @@ export const Portfolio = () => {
 								</div>
 							</article>
 							
-							<article className="portfolio-item js node pf-icons">
-								<div className="portfolio-image">
-									<a href="/#">
-										<img src="images/portfolio/thumb-6.jpg" alt="Open Imagination" />
-									</a>
-									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-6.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
-										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div className="portfolio-desc">
-									<h3><a href="/#">MY STAND
-										
-										
-										
-										</a></h3>
-									<span><a href="/#">JS </a> , <a href="/#" >Node.js on Sails</a></span>
-								</div>
-							</article>
 							
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-7.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/7.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-7.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/7.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -169,10 +150,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item react node pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/thumb-8.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/new/8.png" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-8.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/new/8.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
