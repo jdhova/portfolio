@@ -69,10 +69,10 @@ export const About = () => {
                 <img src="images/me.png" alt="Me" />
               </div>
               <div className="team-desc">
-                <div className="team-title"><h3>Who's this guy?</h3></div>
-                <div className="team-content">I'm a Front-End Developer for ChowNow in Los Angeles, CA.
-                  I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
-                  Let's make something special.</div>
+                <div className="team-title"><h3>Who's Jude OKAGU?</h3></div>
+                <div className="team-content">I'm a Full Stack Developer based in Halifax NS. <br></br>
+                  
+                  I am a natural prblem solver and I am extreemly passionate about Software development and Tech in general, My Master Thesis also focused on Cloud computing.</div>
                
               </div>
             </div>
