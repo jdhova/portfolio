@@ -33,10 +33,10 @@ export const Portfolio = () => {
 							<article className="portfolio-item react pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/1.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-1.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/1.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-1.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
@@ -52,17 +52,17 @@ export const Portfolio = () => {
 							<article className="portfolio-item react node pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/2.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-2.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/2.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-2.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">JavaScript Maths Game 
+									<h3><a href="/#">Flexx  
 										</a></h3>
-										<span><a href="/#">JavaScript </a></span>
+										<span><a href="/#">JS </a> , <a href="/#" >Node Js</a></span>
 								</div>
 							</article>
 
@@ -71,15 +71,15 @@ export const Portfolio = () => {
 							<article className="portfolio-item node react pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/3.png" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-3.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/3.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-3.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Music Player
+									<h3><a href="/#">Algorithms and Data Structures
 										
 										</a></h3>
 										<span><a href="/#">JavaScript </a></span>
@@ -91,15 +91,15 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/4.png" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-9b.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/4.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-9b.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Algorithm and Data Structures
+									<h3><a href="/#">Cocktail Finder
 										
 										
 										</a></h3>
@@ -111,20 +111,20 @@ export const Portfolio = () => {
 							<article className="portfolio-item node js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/5.png" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-5.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/5.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-5.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Flexx 
+									<h3><a href="/#">JS Maths Game 
 										
 										
 										
 										</a></h3>
-									<span><a href="/#">JS </a> , <a href="/#" >Node Js</a></span>
+										<span><a href="/#">JavaScript </a></span>
 								</div>
 							</article>
 							
@@ -132,15 +132,15 @@ export const Portfolio = () => {
 							<article className="portfolio-item js pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/7.jpg" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-6.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/7.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-6.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">TypeSctipt Maths Game 
+									<h3><a href="/#">Music Player
 										
 										</a></h3>
 									<span><a href="/#">JavaScript </a></span>
@@ -150,15 +150,15 @@ export const Portfolio = () => {
 							<article className="portfolio-item react node pf-icons">
 								<div className="portfolio-image">
 									<a href="/#">
-										<img src="images/portfolio/new/8.png" alt="Open Imagination" />
+										<img src="images/portfolio/thumb-7.jpg" alt="Open Imagination" />
 									</a>
 									<div className="portfolio-overlay">
-										<a href="images/portfolio/new/8.png" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
+										<a href="images/portfolio/thumb-7.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
 										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Cocktail Finder
+									<h3><a href="/#">Type Script Maths Game
 										
 										
 										</a></h3>
