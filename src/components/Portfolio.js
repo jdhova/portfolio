@@ -7,8 +7,8 @@ export const Portfolio = () => {
 	<section id="section-portfolio" className="page-section topmargin-lg bg--secondary">
 
 					<div className="heading-block center">
-						<h2>Our Works</h2>
-						<span>Some of the Awesome Projects we've worked on.</span>
+						<h2>My Projects</h2>
+						<span>Check Out my mind blowing projects.</span>
 					</div>
 
           <div className="container clearfix">
@@ -41,7 +41,7 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">ChowNow Ordering</a></h3>
+									<h3><a href="/#">Gifts  Delight</a></h3>
 									<span><a href="/#">
 										React JS</a></span>
 								</div>
@@ -60,9 +60,9 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">ChowNow Discover
+									<h3><a href="/#">JavaScript Maths Game 
 										</a></h3>
-									<span><a href="/#">React JS </a>, <a href="/#">Node</a></span>
+										<span><a href="/#">JavaScript </a></span>
 								</div>
 							</article>
 
@@ -79,10 +79,10 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">New Relic
+									<h3><a href="/#">Music Player
 										
 										</a></h3>
-									<span><a href="/#">React</a> , <a href="/#"> Node Js</a></span>
+										<span><a href="/#">JavaScript </a></span>
 								</div>
 							</article>
 
@@ -99,7 +99,7 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Roambi
+									<h3><a href="/#">Algorithm and Data Structures
 										
 										
 										</a></h3>
@@ -119,7 +119,7 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Walker Tracker
+									<h3><a href="/#">Flexx 
 										
 										
 										
@@ -140,7 +140,7 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">NEVER SURRENDER
+									<h3><a href="/#">TypeSctipt Maths Game 
 										
 										</a></h3>
 									<span><a href="/#">JavaScript </a></span>
@@ -158,29 +158,15 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Powur
+									<h3><a href="/#">Cocktail Finder
 										
 										
 										</a></h3>
-									<span><a href="/#">React Js  </a> , <a href="/#" >Node Js</a></span>
+										<span><a href="/#">JavaScript </a></span>
 								</div>
 							</article>
 							
-							<article className="portfolio-item react pf-icons">
-								<div className="portfolio-image">
-									<a href="/#">
-										<img src="images/portfolio/thumb-9.jpg" alt="Open Imagination" />
-									</a>
-									<div className="portfolio-overlay">
-										<a href="images/portfolio/thumb-9.jpg" className="left-icon" data-lightbox="image"><i className="icon-line-eye"></i></a>
-										<a href="/#" className="right-icon"><i className="icon-line-ellipsis"></i></a>
-									</div>
-								</div>
-								<div className="portfolio-desc">
-									<h3><a href="/#">The Mall</a></h3>
-									<span><a href="/#">React.js  </a> , <a href="/#" >Node Js</a></span>
-								</div>
-							</article>
+							
 						</div>
 
 
