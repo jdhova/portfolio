@@ -7,8 +7,8 @@ export const Contact = () => {
 	<section id="section-contact" className="page-section topmargin-lg">
 
 			<div className="heading-block title-center">
-				<h2>Get in Touch with us</h2>
-				<span>Still have Questions? Contact Us using the Form below.</span>
+				<h2>GET IN TOUCH </h2>
+				<span>Still have Questions? Contact Jude with the Form below or via Social Media.</span>
 			</div>
 
 			<div className="container clearfix">
