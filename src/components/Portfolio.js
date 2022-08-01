@@ -79,7 +79,7 @@ export const Portfolio = () => {
 
 
 										</a></h3>
-										<span><a href="/#">JS </a> , <a href="/#" >Node Js</a></span>
+										<span><a href="/#">React </a> , <a href="/#" >Firebase</a></span>
 								</div>
 							</article>
 
