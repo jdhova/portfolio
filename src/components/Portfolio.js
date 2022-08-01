@@ -41,9 +41,19 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#">Gifts  Delight</a></h3>
+									<h3><a href="/#"> Gifts  Delight
+									<a href="https://github.com/aayushi1852/bootstrap-assignment" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+										<a href="https://aayushi1852.github.io/bootstrap-assignment/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
+									
+									</a></h3>
 									<span><a href="/#">
-										React JS</a></span>
+										React JS
+										
+										</a>
+										</span>
+
+										
 								</div>
 							</article>
 
@@ -61,6 +71,13 @@ export const Portfolio = () => {
 								</div>
 								<div className="portfolio-desc">
 									<h3><a href="/#">Flexx  
+									
+									<a href="https://github.com/jdhova/e-comm" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+
+									<a href="https://e-comm-6609c.web.app/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+									</a>
+
+
 										</a></h3>
 										<span><a href="/#">JS </a> , <a href="/#" >Node Js</a></span>
 								</div>
@@ -80,6 +97,8 @@ export const Portfolio = () => {
 								</div>
 								<div className="portfolio-desc">
 									<h3><a href="/#">Algorithms and Data Structures
+									<a href="https://github.com/jdhova/JS-Algorithms-and-Data-Structures" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+
 										
 										</a></h3>
 										<span><a href="/#">JavaScript </a></span>
@@ -100,6 +119,11 @@ export const Portfolio = () => {
 								</div>
 								<div className="portfolio-desc">
 									<h3><a href="/#">Cocktail Finder
+
+									<a href="https://github.com/jdhova/cocktail-finder-api" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+										<a href="https://jdhova.github.io/cocktail-finder-api/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
+
 										
 										
 										</a></h3>
@@ -120,7 +144,9 @@ export const Portfolio = () => {
 								</div>
 								<div className="portfolio-desc">
 									<h3><a href="/#">JS Maths Game 
-										
+									<a href="https://github.com/jdhova/maths-game" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+										<a href="https://jdhova.github.io/maths-game/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
 										
 										
 										</a></h3>
@@ -141,6 +167,9 @@ export const Portfolio = () => {
 								</div>
 								<div className="portfolio-desc">
 									<h3><a href="/#">Music Player
+									<a href="https://github.com/jdhova/music-player-project" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+										<a href="https://jdhova.github.io/music-player-project/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
 										
 										</a></h3>
 									<span><a href="/#">JavaScript </a></span>
@@ -159,6 +188,10 @@ export const Portfolio = () => {
 								</div>
 								<div className="portfolio-desc">
 									<h3><a href="/#">Type Script Maths Game
+
+									<a href="https://github.com/jdhova/typescript-game" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
+										<a href="https://jdhova.github.io/typescript-game/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
+										</a>
 										
 										
 										</a></h3>
