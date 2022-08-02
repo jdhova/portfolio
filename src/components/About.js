@@ -29,7 +29,7 @@ export const About = () => {
             <a href="/#"><i className="icon-mobile-alt"></i></a>
           </div>
           <h3>Responsive</h3>
-          <p>My web apps are fully Responsive on all devicces.</p>
+          <p>My web apps are fully Responsive on all devicces</p>
         </div>
       </div>
 
