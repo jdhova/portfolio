@@ -9,6 +9,9 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#191d1e', endColorstr='#283139',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 	background-attachment: fixed
 }
+.swiper-slide.dark {
+    width: 100%;
+}
 .highlight{
 	color: #1ABC9C;
 }
