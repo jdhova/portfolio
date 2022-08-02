@@ -19,7 +19,7 @@ export const About = () => {
             <a href="/#"><i className="icon-line2-speedometer"></i></a>
           </div>
           <h3>Fast</h3>
-          <p>Fast load times and lag free interaction, my highest priority.</p>
+          <p>Fast and responsive web apps.</p>
         </div>
       </div>
 
@@ -29,7 +29,7 @@ export const About = () => {
             <a href="/#"><i className="icon-mobile-alt"></i></a>
           </div>
           <h3>Responsive</h3>
-          <p>My layouts will work on any device, big or small.</p>
+          <p>My web apps are fully Responsive on all devicces.</p>
         </div>
       </div>
 
@@ -38,8 +38,8 @@ export const About = () => {
           <div className="fbox-icon">
             <a href="/#"><i className="icon-lightbulb1"></i></a>
           </div>
-          <h3>Intuitive</h3>
-          <p>Strong preference for easy to use, intuitive UX/UI.</p>
+          <h3>innovative</h3>
+          <p>Bringing ideas to life with my ideas and Innovation.</p>
         </div>
       </div>
 
@@ -50,8 +50,8 @@ export const About = () => {
           <div className="fbox-icon">
             <a href="/#"><i className="icon-line2-rocket"></i></a>
           </div>
-          <h3>Dynamic</h3>
-          <p>Websites don't have to be static, I love making pages come to life.</p>
+          <h3>Deployment</h3>
+          <p>I can also deploy and manage web apps.</p>
         </div>
       </div>
 
