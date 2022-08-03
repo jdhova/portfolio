@@ -54,10 +54,10 @@ export const Contact = () => {
 							<label htmlFor="template-contactform-service">Services</label>
 							<select id="template-contactform-service" name="template-contactform-service" className="sm-form-control">
 								<option defaultValue="">-- Select One --</option>
-								<option defaultValue="Wordpress">Wordpress</option>
-								<option defaultValue="PHP / MySQL">PHP / MySQL</option>
+								<option defaultValue="React.js">React.js</option>
+								<option defaultValue="JS / Firebase">Js / Firebase</option>
 								<option defaultValue="HTML5 / CSS3">HTML5 / CSS3</option>
-								<option defaultValue="Graphic Design">Graphic Design</option>
+								<option defaultValue="Graphic Design">Full Stack</option>
 							</select>
 						</div>
 
