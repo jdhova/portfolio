@@ -17,6 +17,9 @@ video#slide-video {
     height: unset !important;
     left: 0 !important;
 }
+.swiper_wrapper .swiper-slide {
+    position: unset;
+}
 .swiper-wrapper {
     position: relative;
     width: 100%;
