@@ -12,15 +12,6 @@
 .highlight{
 	color: #1ABC9C;
 }
-video#slide-video {
-    width: 100% !important;
-    height: unset !important;
-    left: 0 !important;
-}
-.swiper_wrapper .swiper-slide {
-    position: unset;
-	margin: 0 auto;
-}
 .swiper-wrapper {
     position: relative;
     width: 100%;
