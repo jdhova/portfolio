@@ -41,7 +41,7 @@ export const Portfolio = () => {
 									</div>
 								</div>
 								<div className="portfolio-desc">
-									<h3><a href="/#"> Gifts  Delight
+									<h3><a href="/#"> Gifts  Delights
 									<a href="https://github.com/aayushi1852/bootstrap-assignment" className="social-icon  si-small si-colored si-github"> <i className="icon-github"></i> <i className="icon-github"></i> </a>
 										<a href="https://aayushi1852.github.io/bootstrap-assignment/" className="social-icon  si-small si-colored si-github"> <i className="icon-globe"></i> <i className="icon-globe"></i> 
 										</a>
