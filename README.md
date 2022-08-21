@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+### `yarn run deploy `
+
 ### `i`
 
 Runs the app in the development mode.\
